@@ -1,0 +1,6 @@
+Holdout Oct 2025 (trained on Jan-Sep): MAE=135.38  RMSE=650.47  MAPE=6.41%  R2=0.8189
+Holdout Sep-Oct 2025 (trained on Jan-Aug): MAE=136.33  RMSE=640.95  MAPE=5.92%  R2=0.8236
+In-sample full train: MAE=101.09  RMSE=552.04  MAPE=4.36%  R2=0.8621
+Trees used on final model: 114
+Validation predictions: 12000
+December mean predicted rate: 840.31
